@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+demo
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:WindowsApplication1.testEntities.#ctor">
+	<summary>
+ 请使用应用程序配置文件的“testEntities”部分中的连接字符串初始化新 testEntities 对象。
+ </summary>
+</member><member name="M:WindowsApplication1.testEntities.#ctor(System.String)">
+	<summary>
+ 初始化新的 testEntities 对象。
+ </summary>
+</member><member name="M:WindowsApplication1.testEntities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ 初始化新的 testEntities 对象。
+ </summary>
+</member><member name="T:WindowsApplication1.testEntities">
+	<summary>
+ 没有元数据文档可用。
+ </summary>
+</member><member name="T:WindowsApplication1.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

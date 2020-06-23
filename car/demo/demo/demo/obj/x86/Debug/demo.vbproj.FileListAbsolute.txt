@@ -1,0 +1,92 @@
+C:\Users\Administrator\Desktop\demo\demo\bin\Debug\demo.exe
+C:\Users\Administrator\Desktop\demo\demo\bin\Debug\demo.pdb
+C:\Users\Administrator\Desktop\demo\demo\bin\Debug\demo.xml
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\demo.xml
+C:\Users\Administrator\Desktop\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\demo.xml
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\Administrator\Desktop\demo\demo\demo\bin\Debug\demo.exe
+C:\Users\Administrator\Desktop\demo\demo\demo\bin\Debug\demo.pdb
+C:\Users\Administrator\Desktop\demo\demo\demo\bin\Debug\demo.xml
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\demo\demo\demo\bin\Debug\demo.exe.config
+C:\Users\Administrator\Desktop\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\bin\Debug\demo.exe.config
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\demo.xml
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\bin\Debug\demo.exe
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\bin\Debug\demo.pdb
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\bin\Debug\demo.xml
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\bin\Debug\demo.exe.manifest
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\bin\Debug\demo.application
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\demo.exe.manifest
+C:\Users\Administrator\Desktop\demo\demo\demo\demo\obj\x86\Debug\demo.application
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\bin\Debug\demo.exe.config
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\demo.xml
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\demo.vbprojResolveAssemblyReference.cache
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\demo.vbproj.GenerateResource.Cache
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\bin\Debug\demo.exe.manifest
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\bin\Debug\demo.application
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\bin\Debug\demo.exe
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\bin\Debug\demo.pdb
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\bin\Debug\demo.xml
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\demo.exe.manifest
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\demo.application
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\lou\Documents\Tencent Files\1207862938\FileRecv\demo\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\bin\Debug\demo.exe.config
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\demo.exe
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\demo.xml
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\demo.pdb
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\bin\Debug\demo.exe.manifest
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\bin\Debug\demo.application
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\bin\Debug\demo.exe
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\bin\Debug\demo.pdb
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\bin\Debug\demo.xml
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\demo.vbprojResolveAssemblyReference.cache
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form4.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form5.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form6.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Form7.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\demo.vbproj.GenerateResource.Cache
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\demo.exe.manifest
+C:\Users\galva\Desktop\合一\SQL课设\car\demo\demo\demo\obj\x86\Debug\demo.application
