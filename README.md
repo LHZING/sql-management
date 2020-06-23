@@ -1,2 +1,3 @@
 # sql-management
-sql 课设
+csu-sql 课设
+
